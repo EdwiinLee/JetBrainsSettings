@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="/**" value="/**&#10; *&#10; */" shortcut="ENTER" description="代码注释" toReformat="false" toShortenFQNames="true" />
+</templateSet>
